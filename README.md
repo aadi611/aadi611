@@ -76,6 +76,16 @@ Comprehensive job application tracking system with intelligent Gmail integration
 
 Advanced audio denoising through deep learning with STFT signal processing and automated performance monitoring
 
+**🎯 Key Features:**
+
+- **🏗️ U-Net Architecture**: Custom CNN with encoder-decoder structure for precise noise removal
+- **📊 STFT Processing**: Short-Time Fourier Transform for frequency domain analysis
+- **⚡ GPU Acceleration**: CUDA-optimized training with distributed computing support
+- **📈 Performance Monitoring**: Real-time metrics tracking and automated evaluation
+- **🔊 Multi-Domain Support**: Handles speech, music, and environmental audio
+- **📱 Real-Time Processing**: Low-latency inference for live audio applications
+
+
 -----
 
 ### 🔐 Smart Home Security System
