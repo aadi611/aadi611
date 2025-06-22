@@ -1,4 +1,4 @@
-# 👋 Hey there! I’m Aadityan Gupta
+# 👋 Hey there! I’m Aadityan
 
 ```python
 class AadityanGupta:
