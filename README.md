@@ -105,15 +105,7 @@ MongoDB • PostgreSQL • Redis • Elasticsearch
 LangChain • LangGraph • Weights & Biases
 ```
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![Aadityan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi611&layout=compact&theme=tokyonight)
-
-</div>
 
 ## 🌟 Current Focus
 
