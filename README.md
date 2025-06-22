@@ -97,6 +97,16 @@ Advanced audio denoising through deep learning with STFT signal processing and a
 
 Intelligent security system with remote monitoring and real-time access control
 
+**🏠 Key Features:**
+
+- **🔧 Embedded Programming**: Low-level C programming for microcontroller optimization
+- **📡 IoT Connectivity**: WiFi-enabled sensors with MQTT protocol for reliable communication
+- **📱 Mobile App Integration**: Custom Android application for remote system control
+- **🚨 Real-Time Alerts**: Instant notifications with multi-channel alert system
+- **🔒 Access Control**: RFID/keypad authentication with user permission management
+- **☁️ Cloud Integration**: Secure data transmission and remote monitoring capabilities
+
+
 -----
 
 ### 🏏 Cricket Game Management System
