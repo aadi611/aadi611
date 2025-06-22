@@ -65,8 +65,7 @@ Comprehensive job application tracking system with intelligent Gmail integration
 - **🔒 Privacy-First**: Local SQLite storage with OAuth 2.0 authentication
 - **📱 Mobile Responsive**: Works seamlessly across all devices
 
-**[🔗 View Project](https://github.com/aadi611/ai-job-tracker)**
- -----
+ ------
 
 ### 🎵 Audio Denoising with Deep Learning
 
