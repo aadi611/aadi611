@@ -46,6 +46,28 @@ State-of-the-art NER system with custom entity extraction, supporting multiple d
 
 -----
 
+### 🤖 AI-Powered Job Application Tracker
+
+**Flask • Gmail API • SQLite • Chart.js • Tailwind CSS • Task Automation**
+
+![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
+![Features](https://img.shields.io/badge/Features-Full_Stack-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Smart_Parsing-orange?style=for-the-badge)
+
+Comprehensive job application tracking system with intelligent Gmail integration, automated parsing, and modern web interface.
+
+**🌟 Key Features:**
+
+- **🧠 Smart Email Parsing**: AI-powered extraction of company names, positions, and status from job-related emails
+- **🌐 Modern Web Dashboard**: Interactive charts, real-time sync status, and responsive design
+- **🔄 Automated Processing**: Daily Gmail sync with Windows Task Scheduler integration
+- **📊 Advanced Analytics**: Application trends, response rates, and platform breakdown
+- **🔒 Privacy-First**: Local SQLite storage with OAuth 2.0 authentication
+- **📱 Mobile Responsive**: Works seamlessly across all devices
+
+**[🔗 View Project](https://github.com/aadi611/ai-job-tracker)**
+ -----
+
 ### 🎵 Audio Denoising with Deep Learning
 
 **U-Net CNN • PyTorch • GPU Acceleration • Signal Processing**
