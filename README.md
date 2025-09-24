@@ -1,175 +1,76 @@
-# 👋 Hey there! I’m Aadityan
+# Hi there, I'm Aadityan Gupta 👋
 
-```python
-class AadityanGupta:
-    def __init__(self):
-        self.role = "AI Software Developer & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech ECE @ Shiv Nadar Institute"
-        self.current_focus = ["Agentic AI", "LLMs", "NER/NLP", "Predictive Analytics"]
-        self.passion = "Building AI solutions that make a real-world impact"
-    
-    def current_work(self):
-        return {
-            "company": "MetLife",
-            "role": "AI Software Developer Intern", 
-            "projects": [
-                "Agentic AI solutions with LangChain & LangGraph",
-                "Internal LLM applications & API integrations",
-                "Enterprise workflow optimization"
-            ]
-        }
-    
-    def get_expertise(self):
-        return ["Deep Learning", "Computer Vision", "NLP/NER", "MLOps", "Signal Processing"]
-```
+I'm a passionate **AI Software Developer & ML Engineer** specializing in building intelligent solutions that make a real-world impact. Currently working at **MetLife** as an AI Software Developer Intern, focusing on Agentic AI systems and enterprise LLM applications.
 
-## 🚀 Featured Projects
-
-### 🧠 Advanced Named Entity Recognition System
-
-**spaCy • Transformers • Python • Machine Learning**
-
-![Accuracy](https://img.shields.io/badge/F1_Score-94%25-brightgreen?style=for-the-badge)
-![Model](https://img.shields.io/badge/Model-Custom_spaCy-blue?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Dataset-Multi_Domain-orange?style=for-the-badge)
-
-State-of-the-art NER system with custom entity extraction, supporting multiple domains with advanced preprocessing and model optimization techniques.
-
-**Key Features:**
-
-- Custom entity recognition for specialized domains
-- Multi-language support with robust preprocessing
-- Advanced model training with hyperparameter optimization
-- Real-time prediction API with FastAPI integration
-- Comprehensive evaluation metrics and performance monitoring
-
------
-
-### 🤖 AI-Powered Job Application Tracker
-
-**Flask • Gmail API • SQLite • Chart.js • Tailwind CSS • Task Automation**
-
-![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
-![Features](https://img.shields.io/badge/Features-Full_Stack-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Smart_Parsing-orange?style=for-the-badge)
-
-Comprehensive job application tracking system with intelligent Gmail integration, automated parsing, and modern web interface.
-
-**🌟 Key Features:**
-
-- **🧠 Smart Email Parsing**: AI-powered extraction of company names, positions, and status from job-related emails
-- **🌐 Modern Web Dashboard**: Interactive charts, real-time sync status, and responsive design
-- **🔄 Automated Processing**: Daily Gmail sync with Windows Task Scheduler integration
-- **📊 Advanced Analytics**: Application trends, response rates, and platform breakdown
-- **🔒 Privacy-First**: Local SQLite storage with OAuth 2.0 authentication
-- **📱 Mobile Responsive**: Works seamlessly across all devices
-
- ------
-
-### 🎵 Audio Denoising with Deep Learning
-
-**U-Net CNN • PyTorch • GPU Acceleration • Signal Processing**
-
-![Accuracy](https://img.shields.io/badge/Accuracy-88%25-brightgreen?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Dataset-Voice_Bank_DEMAND-blue?style=for-the-badge)
-
-Advanced audio denoising through deep learning with STFT signal processing and automated performance monitoring
-
-**🎯 Key Features:**
-
-- **🏗️ U-Net Architecture**: Custom CNN with encoder-decoder structure for precise noise removal
-- **📊 STFT Processing**: Short-Time Fourier Transform for frequency domain analysis
-- **⚡ GPU Acceleration**: CUDA-optimized training with distributed computing support
-- **📈 Performance Monitoring**: Real-time metrics tracking and automated evaluation
-- **🔊 Multi-Domain Support**: Handles speech, music, and environmental audio
-- **📱 Real-Time Processing**: Low-latency inference for live audio applications
-
-
------
-
-### 🔐 Smart Home Security System
-
-**Embedded C • Microcontroller • WiFi • MQTT • Android Development**
-
-![Reliability](https://img.shields.io/badge/Reliability-100%25-brightgreen?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-IoT-orange?style=for-the-badge)
-
-Intelligent security system with remote monitoring and real-time access control
-
-**🏠 Key Features:**
-
-- **🔧 Embedded Programming**: Low-level C programming for microcontroller optimization
-- **📡 IoT Connectivity**: WiFi-enabled sensors with MQTT protocol for reliable communication
-- **📱 Mobile App Integration**: Custom Android application for remote system control
-- **🚨 Real-Time Alerts**: Instant notifications with multi-channel alert system
-- **🔒 Access Control**: RFID/keypad authentication with user permission management
-- **☁️ Cloud Integration**: Secure data transmission and remote monitoring capabilities
-
-
------
-
-### 🏏 Cricket Game Management System
-
-**Python • SQLite • OOP Design • Real-time Processing**
-
-![Architecture](https://img.shields.io/badge/Architecture-Scalable-blue?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Custom_Algorithms-green?style=for-the-badge)
-
-Full-stack cricket game platform with real-time score calculation and team management
+---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:**
+**Python Stack:**  
+NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, spaCy, Transformers, FastAPI, Flask, LangChain, LangGraph, OpenCV
 
-```
-Python • JavaScript • C/C++ • Embedded C • SQL
-PyTorch • TensorFlow • spaCy • Transformers • scikit-learn
-FastAPI • Flask • React • Node.js
-```
+**Web Development:**  
+JavaScript, React, Node.js, HTML/CSS, Tailwind CSS
 
-**AI/ML Specializations:**
+**Other Languages:**  
+C/C++, Embedded C, SQL
 
-```
-🤖 Natural Language Processing (NER, Text Classification, LLMs)
-👁️ Computer Vision (Object Detection, Image Processing)
-🧠 Deep Learning (CNNs, RNNs, Transformers)
-📊 Machine Learning (Supervised/Unsupervised Learning)
-🔧 MLOps (Model Deployment, Monitoring, CI/CD)
-```
+**Tools & Platforms:**  
+Docker, Kubernetes, AWS, Git, MongoDB, PostgreSQL, Linux
 
-**Tools & Platforms:**
+---
 
-```
-Docker • Kubernetes • AWS • Git • Linux
-MongoDB • PostgreSQL • Redis • Elasticsearch
-LangChain • LangGraph • Weights & Biases
-```
+## 🚀 Featured Projects
 
+### [Advanced Named Entity Recognition System](your-project-link)
+State-of-the-art NER system achieving 94% F1-score with custom entity extraction for specialized domains. Built with spaCy, Transformers, and deployed as a production-ready FastAPI service.
 
+### [AI-Powered Job Application Tracker](your-project-link)  
+Comprehensive job tracking system with intelligent Gmail integration and automated parsing. Features modern web dashboard, real-time analytics, and AI-powered email processing.
 
-## 🌟 Current Focus
+### [Audio Denoising with Deep Learning](your-project-link)
+Advanced audio denoising using U-Net CNN architecture with PyTorch. Achieved 88% accuracy on Voice Bank DEMAND dataset with GPU-accelerated training and real-time processing capabilities.
 
-- 🚀 **Agentic AI Systems** - Building intelligent agents with LangChain & LangGraph
-- 🤖 **Large Language Models** - Fine-tuning and deployment for enterprise applications
-- 🔍 **Advanced NER/NLP** - Custom entity recognition and text processing pipelines
-- 📊 **Predictive Analytics** - Machine learning for business intelligence
-- 🏗️ **MLOps** - Scalable AI infrastructure and deployment strategies
+### [Smart Home Security System](your-project-link)
+IoT-based security system with embedded C programming, WiFi connectivity, MQTT protocol, and custom Android app for remote monitoring and access control.
 
-## 🤝 Let’s Connect!
+### [Cricket Game Management System](your-project-link)
+Full-stack cricket platform with real-time score calculation, team management, and database integration using Python, SQLite, and OOP design principles.
 
-**Open for:**
-🔬 Research Collaborations • 🤖 AI/ML Projects • 💼 Opportunities • 🎓 Knowledge Sharing
+---
 
-**Reach out:**
-📧 Email: [aadityan.gupta@gmail.com](mailto:aadityan.gupta@gmail.com)
+## 🔭 I'm currently working on
+- **Agentic AI solutions** using LangChain & LangGraph for enterprise workflows
+- **Internal LLM applications** and API integrations at MetLife
+- **Advanced NLP pipelines** for custom entity recognition
 
------
+## 🌱 I'm currently learning
+- **MLOps** best practices and deployment strategies
+- **Advanced Transformer architectures** and fine-tuning techniques
+- **Distributed computing** for large-scale ML systems
 
-<div align="center">
+## 💼 Experience
+**AI Software Developer Intern** @ MetLife  
+*Building intelligent agents, optimizing enterprise workflows, and developing internal LLM applications*
 
-*“Turning data into insights, and insights into impact through AI”* ✨
+**Education:** B.Tech Electronics & Communication Engineering @ Shiv Nadar Institute
 
-![Profile Views](https://komarev.com/ghpvc/?username=aadi611&label=Profile%20Views&color=0e75b6&style=flat)
+---
 
-</div>
+## 📫 Connect with me
+
+**Email:** [aadityan.gupta@gmail.com](mailto:aadityan.gupta@gmail.com)  
+**LinkedIn:** [Your LinkedIn Profile](your-linkedin-url)  
+**Resume:** [View Resume](your-resume-link)
+
+---
+
+## 📊 GitHub Stats
+
+![Aadityan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi611&layout=compact)
+
+---
+
+*"Turning data into insights, and insights into impact through AI"*
