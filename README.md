@@ -1,76 +1,63 @@
-# Hi there, I'm Aadityan Gupta 👋
+<h1 align="center">Aadityan Gupta</h1>
+<h2 align="center">AI Software Developer Intern @ MetLife</h2>
+<h3 align="center">Agentic AI | Machine Learning | Deep Learning | NLP/NER</h3>
 
-I'm a passionate **AI Software Developer & ML Engineer** specializing in building intelligent solutions that make a real-world impact. Currently working at **MetLife** as an AI Software Developer Intern, focusing on Agentic AI systems and enterprise LLM applications.
+## 🧑‍💻 About Me
 
----
+I'm a passionate AI Software Developer & ML Engineer specializing in building intelligent solutions that make a real-world impact. My work ranges from developing advanced Named Entity Recognition systems to creating agentic AI solutions and enterprise LLM applications.
 
-## 🛠️ Tech Stack
+## 🚀 Top Skills
 
-**Python Stack:**  
-NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, spaCy, Transformers, FastAPI, Flask, LangChain, LangGraph, OpenCV
+- **Python Stack:**  
+  NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, spaCy, Transformers, FastAPI, Flask, LangChain, LangGraph, OpenCV
 
-**Web Development:**  
-JavaScript, React, Node.js, HTML/CSS, Tailwind CSS
+- **Web Development:**  
+  JavaScript, React, Node.js, HTML/CSS, Tailwind CSS
 
-**Other Languages:**  
-C/C++, Embedded C, SQL
+- **Other Technologies:**  
+  C/C++, Embedded C, SQL, Docker, Kubernetes, AWS, MongoDB, PostgreSQL
 
-**Tools & Platforms:**  
-Docker, Kubernetes, AWS, Git, MongoDB, PostgreSQL, Linux
+<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
----
+## 🌟 Featured Projects
 
-## 🚀 Featured Projects
+- [Advanced Named Entity Recognition System](https://github.com/your-username/ner-system)  
+  State-of-the-art NER system achieving 94% F1-score with custom entity extraction for specialized domains using spaCy and Transformers.
 
-### [Advanced Named Entity Recognition System](your-project-link)
-State-of-the-art NER system achieving 94% F1-score with custom entity extraction for specialized domains. Built with spaCy, Transformers, and deployed as a production-ready FastAPI service.
+- [AI-Powered Job Application Tracker](https://github.com/your-username/job-tracker)  
+  Comprehensive job tracking system with intelligent Gmail integration, automated parsing, and modern web dashboard.
 
-### [AI-Powered Job Application Tracker](your-project-link)  
-Comprehensive job tracking system with intelligent Gmail integration and automated parsing. Features modern web dashboard, real-time analytics, and AI-powered email processing.
+- [Audio Denoising with Deep Learning](https://github.com/your-username/audio-denoiser)  
+  Advanced audio denoising using U-Net CNN architecture with PyTorch, achieving 88% accuracy on Voice Bank DEMAND dataset.
 
-### [Audio Denoising with Deep Learning](your-project-link)
-Advanced audio denoising using U-Net CNN architecture with PyTorch. Achieved 88% accuracy on Voice Bank DEMAND dataset with GPU-accelerated training and real-time processing capabilities.
+- [Smart Home Security System](https://github.com/your-username/smart-security)  
+  IoT-based security system with embedded C programming, WiFi connectivity, and custom Android app for remote monitoring.
 
-### [Smart Home Security System](your-project-link)
-IoT-based security system with embedded C programming, WiFi connectivity, MQTT protocol, and custom Android app for remote monitoring and access control.
+- [Cricket Game Management System](https://github.com/your-username/cricket-game)  
+  Full-stack cricket platform with real-time score calculation and team management using Python and SQLite.
 
-### [Cricket Game Management System](your-project-link)
-Full-stack cricket platform with real-time score calculation, team management, and database integration using Python, SQLite, and OOP design principles.
+## 📊 Daily Coding Activity
 
----
+- 🔭 I'm currently working on **Agentic AI solutions using LangChain & LangGraph** for enterprise workflow optimization
 
-## 🔭 I'm currently working on
-- **Agentic AI solutions** using LangChain & LangGraph for enterprise workflows
-- **Internal LLM applications** and API integrations at MetLife
-- **Advanced NLP pipelines** for custom entity recognition
+- 🌱 I'm currently learning **MLOps best practices and Advanced Transformer architectures**
 
-## 🌱 I'm currently learning
-- **MLOps** best practices and deployment strategies
-- **Advanced Transformer architectures** and fine-tuning techniques
-- **Distributed computing** for large-scale ML systems
+- Also building **internal LLM applications and API integrations** at MetLife
 
-## 💼 Experience
-**AI Software Developer Intern** @ MetLife  
-*Building intelligent agents, optimizing enterprise workflows, and developing internal LLM applications*
+## 📫 Contact Me:
 
-**Education:** B.Tech Electronics & Communication Engineering @ Shiv Nadar Institute
+- 📫 **E-Mail:** **aadityan.gupta@gmail.com**
 
----
+- 📄 Know about my experiences [Resume](https://drive.google.com/your-resume-link)
 
-## 📫 Connect with me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityan gupta" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/your-kaggle-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle" height="30" width="40" /></a>
+<a href="https://leetcode.com/your-leetcode-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-leetcode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/your-gfg-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="your-gfg" height="30" width="40" /></a>
+</p>
 
-**Email:** [aadityan.gupta@gmail.com](mailto:aadityan.gupta@gmail.com)  
-**LinkedIn:** [Your LinkedIn Profile](your-linkedin-url)  
-**Resume:** [View Resume](your-resume-link)
+## ⭐ Stats
 
----
-
-## 📊 GitHub Stats
-
-![Aadityan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi611&layout=compact)
-
----
-
-*"Turning data into insights, and insights into impact through AI"*
+![Aadityan Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=transparent)
