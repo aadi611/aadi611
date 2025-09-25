@@ -21,20 +21,23 @@ I'm a passionate AI Software Developer & ML Engineer specializing in building in
 
 ## 🌟 Featured Projects
 
-- [Advanced Named Entity Recognition System](https://github.com/your-username/ner-system)  
-  State-of-the-art NER system achieving 94% F1-score with custom entity extraction for specialized domains using spaCy and Transformers.
+- [Voice-Vision App](https://your-deployed-link.com) | [GitHub](https://github.com/aadi611/voice-vision-app)  
+  AI-powered multimodal application combining voice and vision capabilities for intelligent user interactions.
 
-- [AI-Powered Job Application Tracker](https://github.com/your-username/job-tracker)  
+- [CADEC Medical NER Analysis](https://github.com/aadi611/cadec-medical-ner-analysis)  
+  Advanced medical Named Entity Recognition system for analyzing adverse drug reactions using state-of-the-art NLP techniques.
+
+- [AI-Powered Job Application Tracker](https://github.com/aadi611/AI-Powered-Job-Application-Tracker)  
   Comprehensive job tracking system with intelligent Gmail integration, automated parsing, and modern web dashboard.
 
-- [Audio Denoising with Deep Learning](https://github.com/your-username/audio-denoiser)  
-  Advanced audio denoising using U-Net CNN architecture with PyTorch, achieving 88% accuracy on Voice Bank DEMAND dataset.
+- [Agentic AI Excel Interviewer](https://github.com/aadi611/agentic-ai-excel-interviewer)  
+  Intelligent interview system using agentic AI to conduct and analyze interviews through Excel-based workflows.
 
-- [Smart Home Security System](https://github.com/your-username/smart-security)  
-  IoT-based security system with embedded C programming, WiFi connectivity, and custom Android app for remote monitoring.
+- [QuickScore](https://github.com/aadi611/quickscore)  
+  Real-time sports scoring application with intuitive interface and live match tracking capabilities.
 
-- [Cricket Game Management System](https://github.com/your-username/cricket-game)  
-  Full-stack cricket platform with real-time score calculation and team management using Python and SQLite.
+- [Stock Analysis](https://github.com/aadi611/stock_analysis)  
+  Comprehensive stock market analysis tool with predictive modeling and data visualization features.
 
 ## 📊 Daily Coding Activity
 
