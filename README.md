@@ -15,7 +15,7 @@
 
 Data Scientist and ML Engineer passionate about building **scalable AI/ML systems** that drive real business impact. I specialize in **Agentic AI**, **LLM applications**, and **enterprise automation** using cutting-edge technologies like LangChain, LangGraph, and modern ML frameworks.
 
-**Current Focus:** Building intelligent automation solutions and LLM-powered applications at MetLife, achieving 10% accuracy improvements and 97% time reductions in policy processing workflows.
+**Current Focus:** Building intelligent automation solutions and LLM-powered applications at MetLife, achieving accuracy improvements and 97% time reductions in policy processing workflows.
 
 ---
 
