@@ -1,66 +1,165 @@
-<h1 align="center">Aadityan Gupta</h1>
-<h2 align="center">AI Software Developer Intern @ MetLife</h2>
-<h3 align="center">Agentic AI | Machine Learning | Deep Learning | NLP/NER</h3>
+<h1 align="center">👋 Hi, I'm Aadityan Gupta</h1>
 
-## 🧑‍💻 About Me
+<h3 align="center">AI Software Developer Intern @ MetLife | ML Engineer | Agentic AI Specialist</h3>
 
-I'm a passionate AI Software Developer & ML Engineer specializing in building intelligent solutions that make a real-world impact. My work ranges from developing advanced Named Entity Recognition systems to creating agentic AI solutions and enterprise LLM applications.
+<p align="center">
+  <a href="mailto:aadityan.gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/AadityanGupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/aadi611"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="tel:+919643432234"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-## 🚀 Top Skills
+---
 
-- **Python Stack:**  
-  NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, spaCy, Transformers, FastAPI, Flask, LangChain, LangGraph, OpenCV
+## 🚀 About Me
 
-- **Web Development:**  
-  JavaScript, React, Node.js, HTML/CSS, Tailwind CSS
+Data Scientist and ML Engineer passionate about building **scalable AI/ML systems** that drive real business impact. I specialize in **Agentic AI**, **LLM applications**, and **enterprise automation** using cutting-edge technologies like LangChain, LangGraph, and modern ML frameworks.
 
-- **Other Technologies:**  
-  C/C++, Embedded C, SQL, Docker, Kubernetes, AWS, MongoDB, PostgreSQL
+**Current Focus:** Building intelligent automation solutions and LLM-powered applications at MetLife, achieving 10% accuracy improvements and 97% time reductions in policy processing workflows.
 
-<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
+---
+
+## 💼 Professional Experience
+
+### 🏢 **MetLife** — *AI Software Developer Intern*
+**Apr 2025 – Present | Noida, India**
+
+- 📈 **Boosted policy extraction accuracy** from 84% → 94% using LangChain/LangGraph
+- ⚡ **Reduced endorsement processing time** from 60 minutes → 2 minutes (97% reduction)
+- 🤖 **Automated monthly validation workflows** for enterprise-scale policy endorsements
+- 💬 **Developed intelligent chatbot** for real-time policy Q&A using LangChain pipelines
+
+### 🔧 **Xoriant Solutions** — *ML Engineer Intern*
+**Jan – Apr 2025 | Pune, India**
+
+- 🎯 **Built predictive maintenance model** with 87% accuracy on 43k+ IoT sensor data points
+- 📊 **Reduced equipment downtime by 15-20%** through proactive anomaly detection
+- 🚀 **Deployed CI/CD pipeline** on Azure for automated model updates
+- 📈 **Created real-time dashboards** using Plotly/Python for operational interventions
+
+### 🤖 **Technavia India Pvt. Ltd** — *Robotics Intern*
+**May – Jul 2023 | Gurugram, India**
+
+- ⚙️ **Designed PLC/HMI-driven robotic systems** with integrated servo controls
+- 📝 **Authored comprehensive deployment documentation** for industrial automation
+- 🔌 **Implemented control systems** for production-grade robotic applications
+
+---
+
+## 🎓 Education
+
+**Shiv Nadar Institute of Eminence** | 2021 – 2025  
+*B.Tech in Electronics and Communication Engineering*  
+*Specialization: Electric Vehicles*
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### **Languages & Frameworks**
+Python • SQL • C • HTML/CSS • MATLAB • PyTorch • TensorFlow • FastAPI • LangChain • Transformers • OpenCV
+
+### **Cloud & DevOps**
+Docker • Kubernetes • Azure • Supabase • Upstash • GitHub Actions
+
+### **Specialized Tools**
+CUDA • ChromaDB • SQLite • Plotly • Streamlit
+
+---
 
 ## 🌟 Featured Projects
 
-- [Voice-Vision App](https://your-deployed-link.com) | [GitHub](https://github.com/aadi611/voice-vision-app)  
-  AI-powered multimodal application combining voice and vision capabilities for intelligent user interactions.
+### 🎙️ **Voice-to-Image AI App** *(In Progress)*
+AI-powered multimodal application with voice-to-image generation capabilities
+- **Tech:** FastAPI, LangChain, Whisper, Imagen4/DALL·E3, ChromaDB
+- **Features:** JWT authentication, responsive UI, vector storage
+- 🔗 [GitHub](https://github.com/aadi611/voice-vision-app)
 
-- [CADEC Medical NER Analysis](https://github.com/aadi611/cadec-medical-ner-analysis)  
-  Advanced medical Named Entity Recognition system for analyzing adverse drug reactions using state-of-the-art NLP techniques.
+### 🤖 **Personal AI Chatbot**
+Resume-trained intelligent agent for portfolio demonstrations and interview preparation
+- **Tech:** LangChain, ChromaDB, RAG pipeline
+- **Use Case:** Automated portfolio walkthroughs and Q&A sessions
 
-- [AI-Powered Job Application Tracker](https://github.com/aadi611/AI-Powered-Job-Application-Tracker)  
-  Comprehensive job tracking system with intelligent Gmail integration, automated parsing, and modern web dashboard.
+### 📊 **AI Job Application Tracker**
+Intelligent job tracking system with automated email parsing and status management
+- **Tech:** Gmail API, LinkedIn API, Python, Excel automation
+- **Features:** Application extraction, status tracking, follow-up reminders
+- 🔗 [GitHub](https://github.com/aadi611/AI-Powered-Job-Application-Tracker)
 
-- [Agentic AI Excel Interviewer](https://github.com/aadi611/agentic-ai-excel-interviewer)  
-  Intelligent interview system using agentic AI to conduct and analyze interviews through Excel-based workflows.
+### 📈 **Stock Market Analysis Platform**
+AI-driven financial analysis tool with comprehensive valuation models
+- **Tech:** Streamlit, yfinance, AlphaVantage, Python
+- **Features:** DCF analysis, risk modeling, bull/bear case scenarios
+- 🔗 [GitHub](https://github.com/aadi611/stock_analysis)
 
-- [QuickScore](https://github.com/aadi611/quickscore)  
-  Real-time sports scoring application with intuitive interface and live match tracking capabilities.
+### 🚀 **AI Startup Analyst Platform**
+Institutional-grade startup evaluation system for pitch deck analysis
+- **Tech:** LLM pipelines, data analytics, Python
+- **Features:** Founder analysis, market evaluation, GO/NO-GO recommendations
 
-- [Stock Analysis](https://github.com/aadi611/stock_analysis)  
-  Comprehensive stock market analysis tool with predictive modeling and data visualization features.
+### 🎧 **Noise Cancellation ML Model**
+Deep learning-based audio processing system for real-time noise reduction
+- **Tech:** PyTorch, U-Net architecture, CUDA, GPU DSP
+- **Performance:** 88% PESQ improvement, 94%+ noise reduction
+- **Deployment:** CUDA edge inference optimization
 
-## 📊 Daily Coding Activity
+### 🏥 **CADEC Medical NER Analysis**
+Advanced Named Entity Recognition for medical adverse drug reaction analysis
+- **Tech:** spaCy, Transformers, NLP techniques
+- 🔗 [GitHub](https://github.com/aadi611/cadec-medical-ner-analysis)
 
-- 🔭 I'm currently working on **Agentic AI solutions using LangChain & LangGraph** for enterprise workflow optimization
+### 💼 **Agentic AI Excel Interviewer**
+Intelligent interview system using agentic AI for automated candidate assessment
+- **Tech:** LangChain, LangGraph, Excel automation
+- 🔗 [GitHub](https://github.com/aadi611/agentic-ai-excel-interviewer)
 
-- 🌱 I'm currently learning **MLOps best practices and Advanced Transformer architectures**
+---
 
-- Also building **internal LLM applications and API integrations** at MetLife
+## 📊 GitHub Stats
 
-## 📫 Contact Me:
-
-- 📫 **E-Mail:** **aadityan.gupta@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/your-resume-link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityan gupta" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/your-kaggle-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle" height="30" width="40" /></a>
-<a href="https://leetcode.com/your-leetcode-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-leetcode" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="your-gfg" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi611&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
-## ⭐ Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-![Aadityan Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=transparent)
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building **Agentic AI solutions** using LangChain & LangGraph for enterprise workflow automation
+- 🌱 Learning **MLOps best practices** and **Advanced Transformer architectures**
+- 💼 Developing **internal LLM applications** and **API integrations** at MetLife
+- 🚀 Exploring **multimodal AI** and **computer vision** applications
+
+---
+
+## 📫 Let's Connect!
+
+**Open to opportunities in:** ML Engineering • AI Development • Data Science • LLM Applications
+
+<p align="center">
+  <i>💡 "Building intelligent systems that transform businesses, one model at a time."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadi611&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
