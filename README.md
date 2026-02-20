@@ -24,10 +24,12 @@ Data Scientist and ML Engineer passionate about building **scalable AI/ML system
 ### 🏢 **MetLife** — *AI Software Developer Intern*
 **Apr 2025 – Present | Noida, India**
 
-- 📈 **Boosted policy extraction accuracy** from 84% → 94% using LangChain/LangGraph
-- ⚡ **Reduced endorsement processing time** from 60 minutes → 2 minutes (97% reduction)
-- 🤖 **Automated monthly validation workflows** for enterprise-scale policy endorsements
-- 💬 **Developed intelligent chatbot** for real-time policy Q&A using LangChain pipelines
+- 📈 **Improved policy extraction accuracy** from 84% → 94% using LangChain & LangGraph pipelines    
+- 💬 **Built a company-agnostic AI chatbot platform** with in-memory retrieval and document upload + semantic search support  
+- 🖥️ **Developed & deployed production frontend features** for the endorsement application used by internal teams  s  
+- 🦷 **Engineered an agentic underwriting workflow** (Brazil Dental) to automate shared mailbox ingestion, text extraction, and backend processing → PEGA quotation pipeline  
+- 🔍 **Automated validation pipelines** for monthly endorsements, reducing manual verification and errors  
+- ☁️ **Working with Azure ecosystem services** including Azure OpenAI, AI Search, and Storage for scalable AI deployments
 
 ### 🔧 **Xoriant Solutions** — *ML Engineer Intern*
 **Jan – Apr 2025 | Pune, India**
