@@ -21,7 +21,7 @@ Data Scientist and ML Engineer passionate about building **scalable AI/ML system
 
 ## 💼 Professional Experience
 
-### 🏢 **MetLife** — *AI Software Developer Intern*
+### 🏢 **MetLife** — *Sr. Associate - Technology Services
 **Apr 2025 – Present | Noida, India**
 
 - 📈 **Improved policy extraction accuracy** from 84% → 94% using LangChain & LangGraph pipelines    
