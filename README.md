@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aadityan Gupta</h1>
 
-<h3 align="center">AI Software Developer Intern @ MetLife | ML Engineer | Agentic AI Specialist</h3>
+<h3 align="center"> Sr. Associate - Technology Services @ MetLife | ML Engineer | Agentic AI Specialist</h3>
 
 <p align="center">
   <a href="mailto:aadityan.gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
