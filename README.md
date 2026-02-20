@@ -27,8 +27,7 @@ Data Scientist and ML Engineer passionate about building **scalable AI/ML system
 - 📈 **Improved policy extraction accuracy** from 84% → 94% using LangChain & LangGraph pipelines    
 - 💬 **Built a company-agnostic AI chatbot platform** with in-memory retrieval and document upload + semantic search support  
 - 🖥️ **Developed & deployed production frontend features** for the endorsement application used by internal teams  s  
-- 🦷 **Engineered an agentic underwriting workflow** (Brazil Dental) to automate shared mailbox ingestion, text extraction, and backend processing → PEGA quotation pipeline  
-- 🔍 **Automated validation pipelines** for monthly endorsements, reducing manual verification and errors  
+- 🦷 **Worked on development for agentic underwriting workflow** (Brazil Dental) to automate shared mailbox ingestion, text extraction, and backend processing → PEGA quotation pipeline  
 - ☁️ **Working with Azure ecosystem services** including Azure OpenAI, AI Search, and Storage for scalable AI deployments
 
 ### 🔧 **Xoriant Solutions** — *ML Engineer Intern*
