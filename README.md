@@ -145,12 +145,10 @@ Intelligent interview system using agentic AI for automated candidate assessment
 
 ---
 
-## 📫 Let's Connect!
 
-**Open to opportunities in:** ML Engineering • AI Development • Data Science • LLM Applications
 
 <p align="center">
-  <i>💡 "Building intelligent systems that transform businesses, one model at a time."</i>
+  <i>I don't mass-apply to jobs anymore. But if you're building something interesting with AI — let's talk.</i>
 </p>
 
 ---
