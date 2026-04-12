@@ -128,9 +128,9 @@ Intelligent interview system using agentic AI for automated candidate assessment
 
 ---
 
-GitHub Stats (Because Apparently We Do This)
+### GitHub Stats (Because Apparently We Do This)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi611&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
