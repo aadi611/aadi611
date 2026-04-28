@@ -75,9 +75,6 @@ Python • SQL • C • HTML/CSS • MATLAB • PyTorch • TensorFlow • Fast
 ### **Cloud & DevOps**
 Docker • Kubernetes • Azure • Supabase • Upstash • GitHub Actions
 
-### **Specialized Tools**
-CUDA • ChromaDB • SQLite • Plotly • Streamlit
-
 ---
 
 ## 🌟 Featured Projects
