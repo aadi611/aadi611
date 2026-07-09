@@ -145,7 +145,7 @@ Intelligent interview system using agentic AI for automated candidate assessment
 
 
 <p align="center">
-  <i>I don't mass-apply to jobs anymore. But if you're building something interesting with AI — let's talk.</i>
+  <i> If you're building something interesting with AI — let's talk.</i>
 </p>
 
 ---
