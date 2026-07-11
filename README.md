@@ -135,7 +135,7 @@ Intelligent interview system using agentic AI for automated candidate assessment
 
 ## 🎯 Current Focus
 
-- 🔭 Building **Agentic AI solutions** using LangChain & LangGraph for enterprise workflow automation
+- 🔭 Building **Agentic AI solutions** using LangChain & LangGraph for workflow automation
 - 🌱 Learning **MLOps best practices** and **Advanced Transformer architectures**
 - 💼 Developing **internal LLM applications** and **API integrations** at MetLife
 - 🚀 Exploring **multimodal AI** and **computer vision** applications
