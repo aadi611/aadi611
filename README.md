@@ -73,7 +73,7 @@ Data Scientist and ML Engineer passionate about building **scalable AI/ML system
 Python • SQL • C • HTML/CSS • MATLAB • PyTorch • TensorFlow • FastAPI • LangChain • Transformers • OpenCV
 
 ### **Cloud & DevOps**
-Docker • Kubernetes • Azure • Supabase • Upstash • GitHub Actions
+Docker • Kubernetes • Azure • Supabase • Upstash • GitHub Actions • Terraform
 
 ---
 
