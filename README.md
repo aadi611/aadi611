@@ -125,29 +125,58 @@ Intelligent interview system using agentic AI for automated candidate assessment
 
 ---
 
-### GitHub Stats (Because Apparently We Do This)
+## 📊 GitHub Stats — Because Apparently We Do This
 
-## GitHub Stats
-
+<!-- Row 1: Overview stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=aadi611&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/aadi611">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445" />
+  </a>
+  <a href="https://github.com/aadi611">
+    <img height="180em" src="https://streak-stats.demolab.com?user=aadi611&theme=tokyonight&hide_border=true&card_width=445" />
+  </a>
+</p>
+
+<!-- Row 2: Top Langs + Profile Details (unique split) -->
+<p align="center">
+  <a href="https://github.com/aadi611">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi611&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=445" />
+  </a>
+  <a href="https://github.com/aadi611">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aadi611&theme=tokyonight&hide_border=true&layout=compact&card_width=445" />
+  </a>
+</p>
+
+<!-- Row 3: Unique profile summary cards (4-panel deep-dive) -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadi611&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi611&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadi611&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadi611&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadi611&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadi611&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aadi611&theme=tokyonight&utcOffset=5.5" />
 </p>
 
+<!-- Trophies -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi611&theme=tokyo-night&hide_border=true&area=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aadi611&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  </a>
 </p>
 
+<!-- Contribution activity graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aadi611/aadi611/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi611&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" />
+</p>
+
+<!-- Snake eating my contributions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadi611/aadi611/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
