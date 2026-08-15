@@ -125,29 +125,10 @@ Intelligent interview system using agentic AI for automated candidate assessment
 
 ---
 
-### GitHub Stats (Because Apparently We Do This)
-
-## GitHub Stats
+## 📊 GitHub Stats — Because Apparently We Do This
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=aadi611&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi611&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadi611&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi611&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aadi611/aadi611/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://streak-stats.demolab.com?user=aadi611&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
