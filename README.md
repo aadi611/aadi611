@@ -18,32 +18,49 @@ Data Scientist and ML Engineer passionate about building **scalable AI/ML system
 
 ---
 
-## 💼 Professional Experience
+Professional Experience
 
-### 🏢 **MetLife** — Sr. Associate - Technology Services
-**Apr 2025 – Present | Noida, India**
+MetLife — Sr. Associate - Technology Services
 
-- 📈 **Improved policy extraction accuracy** from 84% → 94% using LangChain & LangGraph pipelines    
-- 💬 **Built a company-agnostic AI chatbot platform** with in-memory retrieval and document upload + semantic search support  
-- 🖥️ **Developed & deployed production frontend features** for the endorsement application used by internal teams  s  
-- 🦷 **Worked on development for agentic underwriting workflow** (Brazil Dental) to automate shared mailbox ingestion, text extraction, and backend processing → PEGA quotation pipeline  
-- ☁️ **Working with Azure ecosystem services** including Azure OpenAI, AI Search, and Storage for scalable AI deployments
+Apr 2025 – Present | Noida, India
 
-### 🔧 **Xoriant Solutions** — *ML Engineer Intern*
-**Jan – Apr 2025 | Pune, India**
+Designed and developed Agentic AI applications for intelligent workflow automation and enterprise use cases.
 
-- 🎯 **Built predictive maintenance model** with 87% accuracy on 43k+ IoT sensor data points
-- 📊 **Reduced equipment downtime by 15-20%** through proactive anomaly detection
-- 🚀 **Deployed CI/CD pipeline** on Azure for automated model updates
-- 📈 **Created real-time dashboards** using Plotly/Python for operational interventions
+Built and enhanced AI-powered chatbot solutions with document processing, retrieval, and semantic search capabilities.
 
-### 🤖 **Technavia India Pvt. Ltd** — *Robotics Intern*
-**May – Jul 2023 | Gurugram, India**
+Contributed to the development and implementation of internal AI platforms, AI marketplaces, and AI Foundry solutions.
 
-- ⚙️ **Designed PLC/HMI-driven robotic systems** with integrated servo controls
-- 📝 **Authored comprehensive deployment documentation** for industrial automation
-- 🔌 **Implemented control systems** for production-grade robotic applications
+Worked on agentic orchestration frameworks involving multi-agent workflows, tool integrations, and backend automation.
 
+Supported DevOps and cloud engineering initiatives, including application and infrastructure setup, configuration, and deployment.
+
+Identified and remediated application and infrastructure security vulnerabilities, contributing to security hardening and compliance.
+
+Collaborated with cross-functional teams on business requirement gathering, solution design, technical implementation, and delivery.
+
+Engaged with global business and technology stakeholders across Mexico, Chile, EMEA, and the US, supporting requirements, coordination, and solution delivery.
+
+Xoriant Solutions — ML Engineer Intern
+
+Jan – Apr 2025 | Pune, India
+
+Built predictive maintenance models achieving 87% accuracy on 43K+ IoT sensor data points.
+
+Developed anomaly detection solutions to support proactive equipment maintenance and reduce operational downtime.
+
+Implemented CI/CD pipelines on Azure for automated model deployment and updates.
+
+Created interactive dashboards using Plotly and Python for operational monitoring and data-driven interventions.
+
+Technavia India Pvt. Ltd. — Robotics Intern
+
+May – Jul 2023 | Gurugram, India
+
+Designed PLC/HMI-driven robotic systems with integrated servo controls.
+
+Developed control systems for industrial automation applications.
+
+Created technical and deployment documentation for robotic system implementation.
 ---
 
 ## 🎓 Education
