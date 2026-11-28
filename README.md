@@ -23,7 +23,7 @@ Interested in building production-ready AI systems that combine intelligent auto
 
 ## Professional Experience
 
-### MetLife — Sr. Associate - Technology Services
+### MetLife — Associate Software/Platform Engineer I - Technology Services
 **Apr 2025 – Present | Noida, India**
 
 - Designed and developed **Agentic AI applications** for intelligent workflow automation and enterprise use cases.
